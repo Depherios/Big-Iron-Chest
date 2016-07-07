@@ -1,0 +1,12 @@
+
+{
+  "name": "Big Iron Chest",
+  "version": "1.0.0",
+  "title": "Big Iron Chest",
+  "author": "Deph",
+  "contact": "",
+  "homepage": "",
+  "description": "A 2x2 Iron Chest with 100 storage.",
+  "dependencies": [],
+  "factorio_version": "0.13"
+}
